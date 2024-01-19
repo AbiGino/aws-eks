@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: dys-container
-      image: 482088842115.dkr.ecr.ap-south-1.amazonaws.com/container_registry:latest
+      image: 482088842115.dkr.ecr.ap-south-1.amazonaws.com/node_docker
       ports:
-        - containerPort: 80
+        - containerPort: 8001
