@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: adi-demo
-        image: 482088842115.dkr.ecr.ap-south-1.amazonaws.com/node_docker
+        image: 482088842115.dkr.ecr.ap-south-1.amazonaws.com/node_dockers
         ports:
         - containerPort: 8001
